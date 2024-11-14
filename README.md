@@ -5,7 +5,7 @@
 
 - ⚡ Fun fact **I am very cool and play tennis.**
 
-- 👨‍💻 Working on **Nothing right now, about to start learning GDevelop and Unity, wish me luck!**
+- 👨‍💻 Working on **C**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/jack.e.trow" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jack.e.trow" height="30" width="40" /></a>
