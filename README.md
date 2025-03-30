@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jack Trowbridge</h1>
-<h3 align="center">A Pope High School senior completing my fourth year of computer science.</h3>
+<h3 align="center">A University of Alabama student</h3>
 
 - 📫 How to reach me **jet2trow@gmail.com**
-
-- ⚡ Fun fact **I am very cool and play tennis.**
 
 - 👨‍💻 Working on **C**
 <h3 align="left">Connect with me:</h3>
